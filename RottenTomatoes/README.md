@@ -23,6 +23,13 @@ Time spent: `<10 Hours>`
 - [ ] Customize the navigation bar.
 - [x] Add a tab bar for Box Office and DVD.
 - [x] Add a search bar: pretty simple implementation of searching against the existing table view data.
+/Applications/Managed Software Center.app
+
+
+### Walkthrough
+![Core](http://i.imgur.com/QUcvC2L.gif)
+![Search](http://i.imgur.com/3nEpCet.gif)
+![Network Error](http://i.imgur.com/Ntijvtb.gif)
 
 Credits
 ---------
